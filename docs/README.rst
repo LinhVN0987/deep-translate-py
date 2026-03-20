@@ -2,14 +2,6 @@
 deep-translator
 ##################
 
-.. image:: ../assets/icon.jpg
-    :width: 100
-    :align: center
-    :alt: deep-translator-icon
-
-|
-
-
 .. image:: https://img.shields.io/pypi/v/deep-translator.svg
         :target: https://pypi.python.org/pypi/deep-translator
 .. image:: https://img.shields.io/travis/nidhaloff/deep-translator.svg
@@ -72,34 +64,6 @@ support for all languages.
 
 Basically, my goal was to integrate support for multiple famous translators
 in this tool.
-
-======================
-When you should use it
-======================
-
-- If you want to translate text using python
-- If you want to translate from a file
-- If you want to get translations from many sources and not only one
-- If you want to automate translations
-- If you want to use ChatGpt for translations
-- If you want to compare different translations
-- If you want to detect language automatically
-
-======================
-Why you should use it
-======================
-
-- It's the only python tool that integrates many translators
-- Multi language support
-- Support for ChatGpt (version >= 1.11.0)
-- Supports batch translation
-- High level of abstraction
-- Automatic language detection
-- Easy to use and extend
-- Support for most famous universal translators
-- Stable and maintained regularly
-- The API is very easy to use
-- Proxy integration is supported
 
 ========
 Features
@@ -851,46 +815,6 @@ Links
 Check this article on medium to know why you should use the deep-translator package and how to translate text using python.
 https://medium.com/@nidhalbacc/how-to-translate-text-with-python-9d203139dcf5
 
-======
-Help
-======
-
-If you are facing any problems, please feel free to open an issue.
-Additionally, you can make contact with the author for further information/questions.
-
-Do you like deep-translator?
-You can always help the development of this project by:
-
-- Following on github and/or twitter
-- Promote the project (ex: by giving it a star on github)
-- Watch the github repo for new releases
-- Tweet about the package
-- Help others with issues on github
-- Create issues and pull requests
-- Sponsor the project
-
-===========
-Next Steps
-===========
-
-Take a look in the examples folder for more :)
-Contributions are always welcome.
-Read the Contribution guidelines `Here <https://deep-translator.readthedocs.io/en/latest/contributing.html#get-started>`_
-
-==========
-Credits
-==========
-
-Many thanks to @KirillSklyarenko for his work on integrating the microsoft translator
-
-==========
-License
-==========
-
-MIT license
-
-Copyright (c) 2020-present, Nidhal Baccouri
-
 ===========
 Swagger UI
 ===========
@@ -951,9 +875,3 @@ Here are some screenshots:
     :height: 300
     :alt: screenshot3
 
-===========================
-Website & Desktop app
-===========================
-
-Currently, there are propositions for a website and/or desktop app based on deep-translator.
-You can follow the issue here: https://github.com/nidhaloff/deep-translator/issues/144
